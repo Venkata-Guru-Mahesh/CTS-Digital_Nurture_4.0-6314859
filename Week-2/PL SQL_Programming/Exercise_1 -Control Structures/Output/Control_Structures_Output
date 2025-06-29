@@ -1,0 +1,42 @@
+Applied 1% interest discount to CustomerID 4
+Applied 1% interest discount to CustomerID 6
+Applied 1% interest discount to CustomerID 9
+Applied 1% interest discount to CustomerID 11
+Applied 1% interest discount to CustomerID 14
+Applied 1% interest discount to CustomerID 17
+Applied 1% interest discount to CustomerID 20
+
+
+PL/SQL procedure successfully completed.
+
+
+Commit complete.
+
+
+Table CUSTOMERS altered.
+
+
+CustomerID 4 is now a VIP.
+CustomerID 5 is now a VIP.
+CustomerID 8 is now a VIP.
+CustomerID 9 is now a VIP.
+CustomerID 12 is now a VIP.
+CustomerID 13 is now a VIP.
+CustomerID 14 is now a VIP.
+CustomerID 16 is now a VIP.
+CustomerID 17 is now a VIP.
+
+
+PL/SQL procedure successfully completed.
+
+Reminder: LoanID 2 for CustomerID: 9 is due on 18-JUL-2025
+Reminder: LoanID 6 for CustomerID: 8 is due on 20-JUL-2025
+Reminder: LoanID 7 for CustomerID: 10 is due on 15-JUL-2025
+Reminder: LoanID 8 for CustomerID: 11 is due on 10-JUL-2025
+Reminder: LoanID 9 for CustomerID: 12 is due on 30-JUN-2025
+Reminder: LoanID 10 for CustomerID: 15 is due on 20-JUL-2025
+Reminder: LoanID 12 for CustomerID: 19 is due on 13-JUL-2025
+
+
+PL/SQL procedure successfully completed.
+

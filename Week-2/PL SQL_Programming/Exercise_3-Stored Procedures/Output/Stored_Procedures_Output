@@ -1,0 +1,55 @@
+
+Procedure PROCESSMONTHLYINTEREST compiled
+
+1%  interest applied to all Savings accounts.
+Customer balances updated based on Savings accounts.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure UPDATEEMPLOYEEBONUS compiled
+
+All Employees in Finance department have received a bonus of 5%.
+
+
+PL/SQL procedure successfully completed.
+
+All Employees in IT department have received a bonus of 10%.
+
+
+PL/SQL procedure successfully completed.
+
+All Employees in HR department have received a bonus of 15%.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure TRANSFERFUNDS compiled
+
+Transfer of 8000 from Account 10 to Account 12 successful.
+
+
+PL/SQL procedure successfully completed.
+
+Error: Insufficient balance in source account 10. Available balance: 676.7585
+
+
+PL/SQL procedure successfully completed.
+
+Error: Source AccountID 101 does not exist.
+
+
+PL/SQL procedure successfully completed.
+
+Error: Destination AccountID 125 does not exist.
+
+
+PL/SQL procedure successfully completed.
+
+Error: Transfer amount must be positive.
+
+
+PL/SQL procedure successfully completed.
+
