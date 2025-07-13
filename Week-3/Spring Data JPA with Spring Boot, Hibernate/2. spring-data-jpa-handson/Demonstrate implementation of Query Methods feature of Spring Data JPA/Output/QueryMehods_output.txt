@@ -1,0 +1,5 @@
+testFindByNameContaining   75 Countries containing 'ou': [Country [code=BV, name=Bouvet Island], Country [code=DJ, name=Djibouti], Country [code=GP, name=Guadeloupe], Country [code=GS, name=South Georgia and the South Sandwich Islands], Country [code=LU, name=Luxembourg], Country [code=SS, name=South Sudan], Country [code=TF, name=French Southern Territories], Country [code=UM, name=United States Minor Outlying Islands], Country [code=ZA, name=South Africa]]
+
+testFindByNameContainingSorted   81 Countries containing 'ou' sorted: [Country [code=BV, name=Bouvet Island], Country [code=DJ, name=Djibouti], Country [code=TF, name=French Southern Territories], Country [code=GP, name=Guadeloupe], Country [code=LU, name=Luxembourg], Country [code=ZA, name=South Africa], Country [code=GS, name=South Georgia and the South Sandwich Islands], Country [code=SS, name=South Sudan], Country [code=UM, name=United States Minor Outlying Islands]]
+
+testFindByNameStartingWith   87 Countries starting with 'Z': [Country [code=ZM, name=Zambia], Country [code=ZW, name=Zimbabwe]]
