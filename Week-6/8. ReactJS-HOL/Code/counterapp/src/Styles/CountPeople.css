@@ -1,0 +1,18 @@
+.count-people-container {
+  text-align: center;
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 100px;
+}
+
+.button-section {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.count-button {
+  background-color: rgb(34, 219, 34);
+}
