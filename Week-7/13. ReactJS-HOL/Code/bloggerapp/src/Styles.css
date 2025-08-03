@@ -1,0 +1,22 @@
+.app-container{
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+.main-content{
+  display: flex;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.mystyle1,.st2,.v1{
+  flex: 2;
+  padding: 50px;
+}
+
+.green-separator{
+  width: 4px;
+  background-color: green;
+}
+
